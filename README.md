@@ -1,4 +1,4 @@
-# ETL Toll Data Pipeline with Apache Airflow
+# Toll Data Pipeline with Apache Airflow
 
 This project demonstrates the creation of an ETL (Extract, Transform, Load) pipeline using Python and Apache Airflow to process toll traffic data from different highway operators. Each operator has its own IT setup and file format (CSV, TSV, and fixed-width). The goal is to extract, transform, and load the data into a consistent format for further analysis.
 
